@@ -4,3 +4,4 @@ Demo repository for intro to Git practice
 ## Names
 Add your name below:
 - Calum
+- Nick
