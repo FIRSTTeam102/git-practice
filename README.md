@@ -5,4 +5,5 @@ Demo repository for intro to Git practice
 Add your name below:
 - Calum
 - Nick
+- James
 - Brayden
