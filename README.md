@@ -7,3 +7,4 @@ Add your name below:
 - Nick
 - Brayden
 - James
+- Declan
