@@ -8,4 +8,5 @@ Add your name below:
 - Brayden
 - James
 - Declan
+- Sean
 - Rushali
