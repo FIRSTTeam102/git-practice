@@ -12,3 +12,4 @@ Add your name below:
 - Rushali
 - Johan
 - Joseph
+- Gitu
