@@ -9,3 +9,4 @@ Add your name below:
 - James
 - Declan
 - Sean
+- Rushali
